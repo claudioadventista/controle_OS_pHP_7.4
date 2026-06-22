@@ -1,0 +1,18 @@
+*****************************************************
+*                                                   *
+*                                                   *
+*     CONTROLE DE ORDEM DE SERVIÇO PARA OFICINA     *
+*                                                   *
+*                                                   *
+*****************************************************
+
+
+Na pasta controle_OS zipada, contem:
+1 – Sistema controle_OS para servidor.
+2 – Xampp para instalar o servidor, em ambiente Windows de 32 bits.
+3 – Xampp para instalar o servidor, em ambiente Windows de 64 bits.
+4 – Fotos do sistema funcionando.
+5 – Guia passo a passo de como instalar o servidor Xampp. 
+6 – Guia passo a passo de como instalar o sistema_OS no windows.
+7 – Guia passo a passo de como salvar e restaurar o banco de dados.
+
